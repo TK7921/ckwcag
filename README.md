@@ -25,3 +25,4 @@ Installing CKEditor is an easy task. Just follow these simple steps:
 **Note:** CKEditor is by default installed in the `ckeditor` folder. You can
 place the files in whichever you want though.
 
+# Teestowa
