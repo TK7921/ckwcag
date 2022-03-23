@@ -26,3 +26,4 @@ Installing CKEditor is an easy task. Just follow these simple steps:
 place the files in whichever you want though.
 
 # Teestowa
+# Teestowa
